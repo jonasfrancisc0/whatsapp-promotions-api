@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+*.log
+.DS_Store
+dist/
+build/
+.wwebjs_auth/
+.wwebjs_cache/
+session.data.json
+*.swp
+*.swo
+*~
